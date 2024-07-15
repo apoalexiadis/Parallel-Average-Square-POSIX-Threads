@@ -14,4 +14,4 @@ A C program to calculate the average of the squares of elements in an array usin
 ## Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/USERNAME/Parallel-Average-Square-POSIX-Threads.git
+   git clone https://github.com/apoalexiadis/Parallel-Average-Square-POSIX-Threads.git
